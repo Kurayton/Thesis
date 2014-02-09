@@ -1,0 +1,1 @@
+source(paste(srcdir, "Main.R", sep="/"))
